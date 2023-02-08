@@ -3,6 +3,5 @@ public abstract class Animal {
         System.out.println("Zzz...");
     }
 
-    void eat();
-    
+    abstract void eat();
 }
